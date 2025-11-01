@@ -7,7 +7,7 @@ Open Source Virtual Science and Engineering Lab.
 
 **Blender**
 
-**CAD**
+**FreeCAD**
 
 **Python**
 
